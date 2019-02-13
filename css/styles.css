@@ -8,6 +8,8 @@
 
 body {
     background: #292c34;
+    font-family: Asap, sans-serif;
+    overflow: hidden;
 }
 
 header {
@@ -19,6 +21,26 @@ header>h1 {
     color: #24272e;
     text-align: center;
     font-family: Asap, sans-serif;
+}
+
+footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    color: #fff;
+    background-color: #26232c00;
+}
+
+.copyright {
+    text-align: center;
+}
+
+.copyright a {
+    font-size: 18px;
+    color: rgb(0, 166, 196);
+    text-decoration: none;
 }
 
 img {

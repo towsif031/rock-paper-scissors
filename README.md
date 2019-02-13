@@ -1,2 +1,2 @@
 # rock-paper-scissors
-A JavaScript Rock-Paper-Scissors Online Game
+A JavaScript Rock-Paper-Scissors Game
